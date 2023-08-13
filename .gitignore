@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 # project folders and files
-tmp
+db
