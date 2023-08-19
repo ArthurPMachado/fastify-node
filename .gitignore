@@ -131,3 +131,4 @@ dist
 
 # project folders and files
 db
+.env.test
